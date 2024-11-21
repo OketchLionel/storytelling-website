@@ -1,0 +1,31 @@
+
+p{color: blue}
+
+p1{color: blue}
+
+/*Who{What: how}*/
+
+h1{color: red}
+
+h2{color:green}
+
+ol{color: purple}
+
+ul{color: orange}
+
+
+.list{color: black}
+
+.list{ 
+    color: red;
+    margin: 10px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#header {
+    color: aqua;
+    text-align: center;
+}
